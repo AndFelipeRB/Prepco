@@ -1,2 +1,1 @@
-# Prepco
-Por Ejemplo este s un repositorio de prueba de PrepHenry
+Este es un proyecto de como crear un repositorio y clonarlo a mi computadora
